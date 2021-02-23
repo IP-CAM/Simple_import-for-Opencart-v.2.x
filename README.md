@@ -1,2 +1,2 @@
 # opencart_simple_import
-т.к. часто приходится делать импорт зафиксировал на будущее, вдруг пригодится
+since often have to do imports fixed for the future, suddenly come in handy 
